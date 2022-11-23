@@ -1,6 +1,6 @@
 # AirBnB clone - The console
 
-![hbnb-screenshot](https://github.com/lroudge/AirBnB_clone/blob/master/img/hbnb_screenshot.png)
+
 ## Description
 
 This team project is part of the ALX Full-Stack Software Engineering program.
